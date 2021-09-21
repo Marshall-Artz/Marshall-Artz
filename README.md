@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marshall-Artz
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Computer Science at the University of North Texas
+- 📫 How to reach me -> marshallarts12@gmail.com
