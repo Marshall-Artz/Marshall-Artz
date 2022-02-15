@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Computer Science at the University of North Texas
 - 📫 How to reach me -> johnturner2@my.unt.edu
 - (Some other projects related to school are on GitLab as opposed to GitHub)
-- Currently I only have a few things here, check out /Algorithms for some coding problems I've solved
+  - Currently I only have a few things here, check out /Algorithms for some coding problems I've solved
