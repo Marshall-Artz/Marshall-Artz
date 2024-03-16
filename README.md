@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Marshall-Artz
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science at the University of North Texas
-- 📫 How to reach me -> johnturner2@my.unt.edu
-- (Some other projects related to school are on GitLab as opposed to GitHub)
-  - Currently I only have a few things here, check out /Algorithms for some coding problems I've solved
+- 🌱 I’m currently a software engineer at Fannie Mae
+- 📫 How to reach me -> marshallarts12@gmail.com
