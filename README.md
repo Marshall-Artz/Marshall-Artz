@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Marshall-Artz
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently a software engineer at Fannie Mae
+- 🌱 I’m currently a Software Engineer at Fannie Mae
 - 📫 How to reach me -> marshallarts12@gmail.com
